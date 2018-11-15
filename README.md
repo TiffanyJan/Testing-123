@@ -1,1 +1,4 @@
 # testing-123
+For further directions on how to use your app 
+Technologies used in app 
+Directions on how to contribute to OS
